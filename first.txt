@@ -1,0 +1,44 @@
+#include<stdio.h>
+int main(){
+  int a;
+   printf("enter the value of a :");
+   scanf("%d",&a);
+ 
+   int b;
+   printf("enter the value of b :");
+   scanf("%d",&b);
+ 
+   int c;
+   printf("enter the value of c:");
+   scanf("%d",&c);
+   
+   float d;
+   printf("enter the value of d: ");
+   scanf("%f",&d);
+   
+   float e;
+   printf("enter the value of e :");
+   scanf("%f",&e);
+   
+   float f;
+   printf("enter the value of f :");
+   scanf("%f",&f);
+   
+   char p;
+   printf("enter the value of t :");
+   scanf("%c ",&p);
+   
+   int g;
+   printf("enter the value of g :");
+   scanf("%d",&g);
+   
+   int h;
+   printf("enter the value of h :");
+   scanf("%d",&h);
+   
+  
+   return 0;
+   
+}
+   
+
